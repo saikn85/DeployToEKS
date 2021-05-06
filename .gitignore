@@ -18,7 +18,7 @@ docs/_build/
 __pycache__
 .env_file
 *.json
-*.txt
+UdacityUser Role Creation.txt
 
 # Coverage reports
 htmlcov/
